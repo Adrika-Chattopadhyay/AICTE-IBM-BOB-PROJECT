@@ -1,0 +1,142 @@
+IBM Granite-powered Smart Farming Knowledge Base
+================================================
+
+SECTION 1: KHARIF CROPS (June-October)
+========================================
+Kharif crops are sown at the beginning of the monsoon season (June-July) and harvested in autumn (September-October).
+
+Major Kharif Crops in India:
+- Rice (Paddy): Requires 1000-2000mm rainfall. Major varieties: IR-64, Swarna, Jaya, HMT. Yield: 3-6 tons/ha.
+- Cotton: Requires 600-900mm rainfall. Bt cotton recommended for bollworm resistance. Yield: 2-4 bales/ha.
+- Soybean: Requires 600-900mm rainfall. Varieties: JS-335, MACS-58. Protein-rich, good export demand. Yield: 2-3 tons/ha.
+- Maize: Requires 600-900mm rainfall. Hybrid seeds give 30% higher yield. Yield: 4-8 tons/ha.
+- Groundnut: Requires 500-750mm rainfall. Oil content 45-55%. Varieties: GG-2, JL-24.
+- Sugarcane: Requires 1500-2000mm rainfall. Ratoon crop possible for 2-3 years.
+- Jowar (Sorghum): Drought tolerant. Requires 400-650mm rainfall. Dual purpose (grain + fodder).
+- Bajra (Pearl Millet): Very drought tolerant. Grows in sandy soils. Requires 250-400mm rainfall.
+- Arhar (Pigeon Pea): Nitrogen-fixing legume. Requires 600-1000mm rainfall.
+- Moong: Short duration (60-75 days). Nitrogen-fixing. Requires 600-800mm rainfall.
+
+SECTION 2: RABI CROPS (October-March)
+=======================================
+Rabi crops are sown after the monsoon (October-November) and harvested in spring (March-April).
+
+Major Rabi Crops:
+- Wheat: Ideal temperature 15-20°C. Varieties: HD-2967, GW-322, PBW-343. Yield: 4-6 tons/ha.
+- Mustard (Rapeseed): Oil content 40-44%. Varieties: Varuna, Pusa Bold. Yield: 1.5-2.5 tons/ha.
+- Gram (Chickpea): Protein-rich (20-22%). Varieties: JG-11, Vijay. Yield: 1.5-2.5 tons/ha.
+- Peas: Short duration. Cool weather crop. Requires 60-90 frost-free days.
+- Barley: Drought and frost tolerant. Beer and malt industry demand.
+- Sunflower: Oil content 40-50%. Can be grown in both kharif and rabi.
+- Linseed (Flaxseed): Cold tolerant. Oil used in paints and varnishes.
+
+SECTION 3: SOIL MANAGEMENT
+============================
+Soil pH Ranges:
+- 4.5-5.5: Strongly acidic (add lime to correct)
+- 5.5-6.5: Moderately acidic (ideal for tea, coffee)
+- 6.5-7.5: Near neutral (ideal for most crops)
+- 7.5-8.5: Alkaline (add gypsum/sulfur to correct)
+- 8.5+: Strongly alkaline (difficult to farm)
+
+Nutrient Management:
+- Nitrogen (N): Applied as Urea (46% N) or DAP (18% N). Promotes vegetative growth.
+- Phosphorus (P): Applied as DAP (46% P) or SSP (16% P). Promotes root development.
+- Potassium (K): Applied as MOP (60% K) or SOP (50% K). Improves disease resistance.
+- Zinc: Deficiency common in India. Apply ZnSO4 @ 25 kg/ha.
+- Boron: Deficiency in oilseeds. Apply borax @ 2 kg/ha.
+- Sulfur: Deficiency in mustard-growing areas. Apply gypsum @ 200 kg/ha.
+
+SECTION 4: IRRIGATION MANAGEMENT
+===================================
+Water Requirement by Crop (mm per season):
+- Rice: 900-2500mm
+- Wheat: 400-500mm
+- Cotton: 600-900mm
+- Sugarcane: 1500-2000mm
+- Groundnut: 400-600mm
+- Soybean: 450-700mm
+
+Irrigation Methods:
+1. Flood/Surface irrigation: Cheapest, least efficient (40-60% efficiency)
+2. Sprinkler irrigation: Good for wheat, groundnut (65-75% efficiency)
+3. Drip irrigation: Best for horticulture, sugarcane (85-95% efficiency)
+4. Micro-sprinkler: Good for orchards and nurseries
+
+Critical Growth Stages Requiring Irrigation:
+- Rice: Tillering, panicle initiation, grain filling
+- Wheat: Crown root initiation (21 DAS), jointing, heading
+- Cotton: Flowering and boll development
+
+SECTION 5: PEST AND DISEASE MANAGEMENT
+========================================
+Integrated Pest Management (IPM) Principles:
+1. Use resistant varieties
+2. Cultural practices (crop rotation, trap crops)
+3. Biological control (Trichogramma, Bacillus thuringiensis)
+4. Chemical control as last resort
+
+Common Pests:
+- Stem Borer (Rice): Use Chlorpyrifos or Cartap Hydrochloride. Release Trichogramma.
+- Bollworm (Cotton): Use Bt sprays or chemical Spinosad.
+- Whitefly (Cotton, Tomato): Use Imidacloprid or yellow sticky traps.
+- Aphids: Use Dimethoate or neem oil.
+- Thrips: Use Spinosad or fipronil.
+- Leaf Folder (Rice): Use Monocrotophos or Chlorpyrifos.
+
+Common Diseases:
+- Rice Blast: Use Tricyclazole 75 WP @ 6g/kg seed treatment.
+- Wheat Rust: Use Propiconazole 25 EC @ 0.1%.
+- Late Blight (Potato/Tomato): Use Mancozeb 75 WP @ 2.5 g/L.
+- Powdery Mildew: Use Wettable Sulphur 80 WP @ 3 g/L.
+- Downy Mildew: Use Metalaxyl-Mancozeb.
+
+SECTION 6: GOVERNMENT SCHEMES 2024
+=====================================
+1. PM-Kisan Samman Nidhi:
+   - Benefit: Rs 6000/year (3 installments of Rs 2000)
+   - Eligibility: Small/marginal farmers (<2 ha)
+   - Website: pmkisan.gov.in
+
+2. PM Fasal Bima Yojana (PMFBY):
+   - Premium: 1.5% for Rabi, 2% for Kharif, 5% for Horticulture
+   - Coverage: Loss due to natural calamities, pests, diseases
+   - Registration: Through bank/CSC before cut-off date
+
+3. Kisan Credit Card (KCC):
+   - Credit: Up to Rs 3 lakh at 4% interest
+   - Valid: 5 years with annual renewal
+   - Apply: Nearest bank branch
+
+4. PM KUSUM Scheme:
+   - Subsidy: 60-90% on solar pumps
+   - Target: 35 lakh solar agricultural pumps
+   - Apply: State nodal agency
+
+5. Soil Health Card:
+   - Free soil testing every 2 years
+   - 12 parameters including NPK, pH, micronutrients
+   - Apply: Nearest KVK or Agriculture Department
+
+6. National Mission for Sustainable Agriculture (NMSA):
+   - Promotes water-use efficiency
+   - Supports micro-irrigation
+   - Soil health management practices
+
+SECTION 7: MARKET AND PRICING
+================================
+MSP 2023-24 (Minimum Support Price):
+- Paddy (Common): Rs 2183/quintal
+- Wheat: Rs 2275/quintal
+- Maize: Rs 2090/quintal
+- Soybean: Rs 4600/quintal
+- Groundnut: Rs 6377/quintal
+- Cotton (Long Staple): Rs 7020/quintal
+- Mustard: Rs 5650/quintal
+- Sugarcane (FRP): Rs 315/quintal
+
+Market Information Sources:
+- Agmarknet: agmarknet.nic.in (daily mandi prices)
+- e-NAM: enam.gov.in (online trading platform)
+- APEDA: for export opportunities
+- NAFED: for procurement at MSP
